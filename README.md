@@ -12,7 +12,7 @@
 
 # DEPLOY TO HEROKU 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Atuyhddydgs/Vc.git)
 
 # CREDIT
 
